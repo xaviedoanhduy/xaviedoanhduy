@@ -1,4 +1,5 @@
 ### Hi there 👋
+### My name is Do Anh Duy 💙
 
 <!--
 **Saint1411/Saint1411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->Have a nice day 😄
