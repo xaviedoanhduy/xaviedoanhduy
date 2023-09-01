@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-* How to reach me: 
+-->How to reach me: 
    + 📧 doanhduyy14@gmail.com / 📧 moncoeur2k1@gmail.com
    + 🦊 https://gitlab.com/Saint1411
 -->Have a nice day 😄
