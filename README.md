@@ -11,7 +11,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Enthusiasm, hard-working, clever...
--->How to reach me: 
+-->How to reach me:
+   + <a href="https://www.linkedin.com/in/xavie-do14" _target="new">Linkedln</a>
    + 📧 doanhduyy14@gmail.com
    + 📧 moncoeur2k1@gmail.com
    + 🦊 https://gitlab.com/Saint1411
