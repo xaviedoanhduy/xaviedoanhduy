@@ -3,13 +3,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on CloudMedia
+- 🔭 I’m currently working on CloudMedia LLD
 - 🌱 I’m currently learning HUFLIT
 - 👯 I am an information systems engineer
 - 🤔 I am also an Odoo development engineer
-- 💬 Ask me about ...
-- 📫 How to reach me: 
-- 😄 Pronouns: ...
 - ⚡ Fun fact: Enthusiasm, hard-working, clever...
 -->How to reach me:
    * <a href="https://www.linkedin.com/in/xavie-do14" target="_blank">
