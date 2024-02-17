@@ -12,10 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Enthusiasm, hard-working, clever...
 -->How to reach me:
-   + <a href="https://www.linkedin.com/in/xavie-do14" _target="new">Linkedln</a>
+   + <a href="https://www.linkedin.com/in/xavie-do14" target="_new">
+      <img src="https://icons8.com/icon/xuvGCOXi8Wyg/linkedin"/>
+         Linkedln
+      </a>
+   + <a href="https://gitlab.com/Saint1411" target="_new">🦊 Gitlab</a>
+   + <a href="https://github.com/Saint1411" target="_new">😹 Github</a>
    + 📧 doanhduyy14@gmail.com
    + 📧 moncoeur2k1@gmail.com
-   + 🦊 https://gitlab.com/Saint1411
-   + 😹 https://github.com/Saint1411
+
 
 -->Have a nice day 😄
