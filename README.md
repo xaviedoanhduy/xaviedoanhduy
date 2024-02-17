@@ -21,7 +21,7 @@ Here are some ideas to get you started:
       <img width="20" height="20" src="https://img.icons8.com/nolan/24/github.png" alt="github"/>
          Github
       </a>
-   * <img width="20" height="20" src="https://img.icons8.com/doodle/48/apple-mail.png" alt="apple-mail"/> doanhduyy14@gmail.com
+   * <img width="20" height="20" src="https://img.icons8.com/doodle/48/apple-mail.png" alt="apple-mail"/> doanhduyxavie@gmail.com
 
 
 -->Have a nice day 😄
