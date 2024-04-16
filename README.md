@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on CloudMedia Company Limited
+- 🔭 I’m currently working at Trobz
 - 🌱 I’m currently learning HUFLIT
 - 👯 I am an information systems engineer
 - 🤔 I am also an Odoo development engineer
