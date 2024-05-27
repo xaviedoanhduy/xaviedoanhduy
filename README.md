@@ -1,4 +1,6 @@
 # 💫 About Me:
+CloudMedia<br>
+MindX Technology school<br>
 Trobz<br>
 
 
