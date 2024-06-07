@@ -1,5 +1,5 @@
 # 💫 About Me:
-Trobz<br>OCA / Camptocamp<br>CloudMedia<br>MindX Technology School 
+Technical Consultant at Trobz<br>Software Developer at CloudMedia<br>Teaching Assistant at MindX Technology School 
 
 
 ## 🌐 Socials:
