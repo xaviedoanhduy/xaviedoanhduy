@@ -18,9 +18,6 @@ Technical Consultant at Trobz<br>Software Developer at CloudMedia<br>Teaching As
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=xaviedoanhduy&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=xaviedoanhduy&icon=0&color=0)](https://visitcount.itsvg.in)
 
