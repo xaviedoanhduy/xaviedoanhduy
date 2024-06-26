@@ -1,5 +1,5 @@
 # 💫 About Me:
-Technical Consultant at Trobz<br>Software Developer at CloudMedia<br>Teaching Assistant at MindX Technology School 
+Technical Consultant at Trobz Consulting<br>Software Developer at ERP CloudMedia<br>Teaching Assistant at MindX Technology School 
 
 
 ## 🌐 Socials:
