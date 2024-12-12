@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hello everyone,
 
-Some of my notable projects include::
+Some of my notable projects include:
   -  [High-Utility Itemset Mining](https://github.com/xaviedoanhduy/high-itemset-mining)
   -  [Information System Security](https://github.com/xaviedoanhduy/in4-system-security)
 
