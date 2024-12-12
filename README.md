@@ -1,8 +1,6 @@
 # 💫 About Me:
 Hello everyone,
 
-I love exploring new places, traveling, and discovering different cuisines from around the world. In my free time, I research AI, big data topics, data encryption, and contribute to open-source projects. My past roles include part-time software engineer at Cloud Media, teaching assistant at MindX Technology School and technical consultant at Trobz Consulting.
-
 Some of my notable projects include::
   -  [High-Utility Itemset Mining](https://github.com/xaviedoanhduy/high-itemset-mining)
   -  [Information System Security](https://github.com/xaviedoanhduy/in4-system-security)
