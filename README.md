@@ -1,10 +1,7 @@
-```js
-/*
-✨ Hey, take it easy.
+```python
+# 📌 Don't pressure yourself.
+# Doing your best is already enough.
 
-📌 Don’t put too much pressure on yourself.
-Doing your best is already enough.
-
-Keep going at your own pace. 💛
-*/
+"""Sometimes your joy is the source of your smile,
+but sometimes your smile can be the source of your joy."""
 ```
